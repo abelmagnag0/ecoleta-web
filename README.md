@@ -5,8 +5,8 @@ Aplicação web feita no <strong>NLW#1</strong> ministrado pela [Rocketseat](htt
 <p align="center"> 
  <a href="#tecnologias">Tecnologias</a> | 
  <a href="#contribuir">Contribuição</a> | 
- <a href="#licenc-a">Licença</a> |  
- <a href="#autor">Autor</a>
+ <a href="#features">Features</a> |  
+ <a href="#rodando">Rodando a aplicação</a>
 </p>
 
 ## Tecnologias
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-### Features
+## Features
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧
@@ -35,13 +35,13 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 - [x] Cadastro de pontos de coleta
 - [ ] Aplicação mobile
 
-### Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-###  Rodando a aplicação
+##  Rodando
 
 ```bash
 # Clone este repositório
